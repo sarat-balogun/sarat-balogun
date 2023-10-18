@@ -1,10 +1,10 @@
-### Hi there 👋, my name is Sarat
-#### I am Cyber Security and Cloud Security Enthusiast
+# Hi there 👋, my name is Sarat
+### I am Cyber Security and Cloud Security Enthusiast
 I am a passionate and dedicated cybersecurity and cloud security enthusiast with a strong commitment to safeguarding digital assets and data in today's increasingly interconnected world. My journey in this dynamic field is driven by a deep fascination for technology, a keen interest in security challenges, and a relentless pursuit of knowledge.
 
 Skills:  PYTHON / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on acouple of cloud security projects. 
 - 🤔 I’m looking for help with Open source collaborations and Internships 
 - 📫 How to reach me: saratbalogun6@gmail.com 
 
