@@ -4,7 +4,7 @@ I am a passionate and dedicated cybersecurity and cloud security enthusiast with
 
 Skills:  PYTHON / JS / HTML / CSS
 
-- 🔭 I’m currently working on acouple of cloud security projects. 
+- 🔭 I’m currently working on a couple of cloud security projects. 
 - 🤔 I’m looking for help with Open source collaborations and Internships 
 - 📫 How to reach me: saratbalogun6@gmail.com 
 
